@@ -7,3 +7,4 @@
 *.png
 *.txt
 *.gz
+catboost_info/
