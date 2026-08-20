@@ -7,4 +7,5 @@
 *.png
 *.txt
 *.gz
+*.parquet
 catboost_info/
